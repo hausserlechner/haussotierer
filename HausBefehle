@@ -1,0 +1,118 @@
+
+#!/bin/bash
+unzip Haus
+/
+scp Haus/Hose.txt 
+scp Haus/Hose.txt Haus/Schlafzimmer/schubladkasten
+Is
+is
+ls
+Is Haus/Wohnzimmer/Wespe.txt 
+rm Haus/Wohnzimmer/Wespe.txt 
+rm Haus/Wohnzimmer/Stein.txt 
+rm Haus/Schlafzimmer/Bett/Schlange.txt 
+rm Haus/Schlafzimmer/Bett/Maus.txt 
+rm Haus/Schlafzimmer/Kühlschrank/Frosch.txt 
+ls
+ls Downloads
+ls Haus
+ls Haus.zip
+unzip Haus.zip
+ls -l Haus
+ls Downloads/Haus
+mv Hose.txt/Schlafzimmer
+mv Hose.txt Schlafzimmer
+mv Downloads/Haus/Hose.txt Downloads/Haus/Schlafzimmer
+ls Downloads/Haus/Schlafzimmer/
+mv Downloads/Haus/Schlafzimmer/Hose.txt Downloads/Haus/Schlafzimmer/Schubladkasten/
+mv Downloads/haus/Schlaf
+mv Downloads/Haus/Schlafzimmer/Socken.txt Downloads/Haus/Schlafzimmer/Schubladkasten/
+ls Downloads/Haus
+mv Downloads/Haus/Computer.txt Downloads/Haus/Computertisch/
+ls Downloads/Haus/Computertisch/
+mv Downloads/haus/Lese
+mv Downloads/Haus/Lesebuch.txt Downloads/Haus/Schreibtisch/
+ls Downloads/Haus/Badezimmerschrank/
+mv Downloads/Haus/Arbeitsauftrag.txt Downloads/Haus/Schreibtisch
+ls Downloads/Haus
+mkdir Badezimmer
+ls Downloads/Haus/
+mkdir Downloads/Haus/Badezimmer
+ls Downloads/Haus/
+mv Downloads/Haus/Badezimmerschrank/ Downloads/Haus/Badezimmer
+mkdir Downloads//haus/Küche
+mkdir Downloads/Haus/Küche
+mv Downloads/Haus/Kochlöffel.txt Downloads/Haus/Küche
+ls Downloads/Haus/Wohnzimmer/
+mv Downloads/Haus/Polster.txt Downloads/Haus/Wohnzimmer/Sofa/
+ls Downloads/Haus/Wohnzimmer/Sofa/
+mkdir Downloads/Haus/Garten
+mv Downloads/Haus/Wohnzimmer/Fahrrad.txt Downloads/Haus/Garten
+mv Downloads/Haus/Wohnzimmer/Zahnbuerste.txt Downloads/Haus/Badezimmer/Badezimmerschrank/
+mv Downloads/Haus/Wohnzimmer/Küchenschrank/ Downloads/Haus/Küche/
+mv Downloads/Haus/Wohnzimmer/Unterhose.txt Downloads/Haus/Schlafzimmer/Schubladkasten
+ls Downloads/Haus/Schlafzimmer/Schubladkasten/
+mv Downloads/Haus/Schlafzimmer/Schubladkasten/Schublade fuer Socken
+mv Downloads/Haus/Schlafzimmer/Schubladkasten/Socken.txt  Downloads/Haus/Schlafzimmer/Schubladkasten/Schublade fuer Socken
+mv Downloads/Haus/Schlafzimmer/Schubladkasten/Unterhose.txt  Downloads/Haus/Schlafzimmer/Schubladenkasten/Schublade fuer Unterwäsche
+ls Downloads/Haus/Schlafzimmer/Schubladkasten/Schublade fuer Unterwäsche
+ls Downloads/haus/
+ls Downloads/Haus/
+ls Downloads/Haus/Badezimmer/
+ls Downloads/Haus/Badezimmer/Badezimmerschrank/
+ls Downloads/Haus/Computertisch/
+mv Downloads/Haus/Fenster.txt Downloads/Haus/Küche/
+mkdir Downloads/Haus/Garten/Hund
+ls Downloads/Haus/Küche/
+ls Downloads/Haus/Küche/Küchenschrank/
+mv Downloads/Haus/Küche/Kochlöffel.txt Downloads/Haus/Küche/Küchenschrank/
+ls Downloads/Haus/Küche/Kü
+ls Downloads/Haus/Küche/Küchenschrank/
+ls Downloads/Haus/Schlaf
+ls Downloads/Haus/Schlafzimmer
+rm Downloads/Haus/Schlafzimmer/schubladkasten 
+rm Downloads/Haus/Schlafzimmer/Bett
+ls Downloads/Haus/Schlafzimmer/Bett/
+mv Downloads/Haus/Schlafzimmer/Bett/Autoschluessel.txt Downloads/Haus/Vorzimmer/
+ls Downloads/Haus/Schlafzimmer/G
+ls Downloads/Haus/Schlafzimmer/Geschirrspüler/
+mv Downloads/Haus/Schlafzimmer/Geschirrspüler/Mathematikbuch.txt Downloads/Haus/Schreibtisch/
+mv Downloads/Haus/Schlafzimmer/Geschirrspüler/Unterhose.txt Downloads/Haus/Schlafzimmer/Schubladkasten/
+mv Downloads/Haus/Schlafzimmer/Geschirrspüler Downloads/Haus/Küche/
+ls Downloads/Haus/Schlafzimmer/Kühlschrank/
+ls Downloads/Haus
+mv Downloads/Haus/Teller.txt Downloads/Haus/Küche/Küchenschrank/
+ls Downloads/Haus/Schlafzimmer/
+mv Downloads/Haus/Schlafzimmer/Kühlschrank/1000\ Euro.txt Downloads/Haus/Vorzimmer
+mv Downloads/Haus/Schlafzimmer/Kühlschrank/ Downloads/Haus/Küche/
+ls Downloads/Haus/Schlafzimmer/Schrank/
+mv Downloads/Haus/Schlafzimmer/Schrank/Milch.txt Downloads/Haus/Küche/Kü
+mv Downloads/Haus/Schlafzimmer/Schrank/Milch.txt Downloads/Haus/Küche/Kühlschrank/
+ls Downloads/Schrank
+mv Downloads/Haus/Schlafzimmer/Schrank/Wurst.txt Downloads/Haus/Küche/Kühlschrank/
+mv Downloads/Haus/Schlafzimmer/Schrank/M
+ls Downloads/Haus/Schlafzimmer/Schrank/
+mv Downloads/Haus/Schlafzimmer/Schubladkasten/Hose.txt Downloads/Haus/Schlafzimmer/Schrank/
+mv Downloads/Haus/Steckdose.txt Downloads/Haus/Wohnzimmer/
+ls Downloads/Haus/Schreibtisch/
+ls Downloads/Haus/Vorzimmer/
+mv Downloads/Haus/Vorzimmer/Autoschluessel.txt Downloads/Haus/Vorzimmer/Schluesselbrett/
+ls Downloads/Haus/Vorzimmer/Schluesselbrett/
+ls Downloads/Haus/Vorzimmer/Schuhregal/
+mkdir Downloads/Haus/Vorzimmer/Schuhregal/Schuhe
+ls Downloads/Haus/Wohnzimmer/
+ls Downloads/Haus/Wohnzimmer/Sofa/
+ls Downloads/Haus/Wohnzimmer/Wohnzimmerschrank/
+ls Downloads/Haus/Wohnzimmer/Wohnzimmertisch
+ls Downloads/Haus/
+ls Downloads/Haus/Schlafzimmer/
+Downloads/Haus/Schlafzimmer/Schubladkasten/
+ls Downloads/Haus/Schlafzimmer/Schubladkasten/
+ls
+cd Downloads/Haus/Schlafzimmer/Schubladkasten/
+ls
+mv "Schublade fuer Socken"
+mv "Schublade fuer Socken" test
+cd ..
+cd
+
